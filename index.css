@@ -18,7 +18,7 @@
 }
 body{
     /*background-color: var(--cor-fundo);*/
-    background: url(/img/webb-dark.png);
+    background: url(webb-dark.png);
     width: 100%;
     height: auto;
 }
